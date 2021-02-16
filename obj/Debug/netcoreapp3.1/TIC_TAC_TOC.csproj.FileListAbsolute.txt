@@ -1,0 +1,13 @@
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.exe
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.deps.json
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.runtimeconfig.json
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.runtimeconfig.dev.json
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.dll
+D:\programacion 1\TIC_TAC_TOC\bin\Debug\netcoreapp3.1\TIC_TAC_TOC.pdb
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.csprojAssemblyReference.cache
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.AssemblyInfoInputs.cache
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.AssemblyInfo.cs
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.csproj.CoreCompileInputs.cache
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.dll
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.pdb
+D:\programacion 1\TIC_TAC_TOC\obj\Debug\netcoreapp3.1\TIC_TAC_TOC.genruntimeconfig.cache
